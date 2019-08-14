@@ -30,13 +30,9 @@ const TextScreen = () => {
           setPassword(newValue);
         }}
       />
- 
       {
         password.length < 4 ? <Text>Password must be longer than 5</Text> : null
       }
-
-      
-
     </View> 
   )
 }
