@@ -45,4 +45,4 @@ const styles = StyleSheet.create({
   }
 });
 
-export default TextScreen;
+export default TextScreen; 
